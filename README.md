@@ -4,6 +4,6 @@
 👨‍🏫 Professor: <a href="https://github.com/RaphaelSouza">Raphael Lopes de Souza</a><br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
 <br><br>
-## Exercício 1 ✅<br>
-descricao aqui<br>
-➡️<a href="#">Veja aqui</a><br><br>
+## Tarefa 01 ✅<br>
+Coleção de exercícios para treino de sintaxe de Kotlin<br>
+➡️[Veja Aqui](Tarefa%2001)
