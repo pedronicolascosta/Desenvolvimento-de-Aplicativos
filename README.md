@@ -4,6 +4,10 @@
 👨‍🏫 Professor: <a href="https://github.com/RaphaelSouza">Raphael Lopes de Souza</a><br>
 🤓 Autor: <a href="https://github.com/pedronicolascosta">Pedro Nicolas Costa</a><br>
 <br><br>
+## Hands On ✅
+Exercícios "mão-na-massa"
+- [Hands On 01](Hands%20On%2001) ✏️
+- [Hands On 02](Hands%20On%2002) ✏️
 ## Tarefa 01 ✅<br>
 Coleção de exercícios para treino de sintaxe de Kotlin<br>
 ➡️[Veja Aqui](Tarefa%2001)
